@@ -15,4 +15,4 @@ SQL and Data Analysis Projects
 
 - Analyzed bike sales across regions, age groups and commute patterns
 - Built interactive dashboard with slicers for Marital Status, Region, Education
-- [View File](Excel Project Dataset New.xlsx)
+- [View File](Excel%20Project%20Dataset%20New.xlsx)
