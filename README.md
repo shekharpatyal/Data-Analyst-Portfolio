@@ -11,3 +11,4 @@ SQL and Data Analysis Projects
 - [View Dashboard] (https://public.tableau.com/views/HRAnalyticsDashboard_17879051092430/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [View SQL Queries] (HR_Analytics.sql)
 
+| Bike Sales Dashboard | Excel | [View File](Excel Project Dataset New.xlsx) |
