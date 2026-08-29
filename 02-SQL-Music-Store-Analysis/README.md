@@ -26,5 +26,5 @@ MySQL, SQL (JOINs, CTEs, Window Functions)
 - CASE statements
 
 ## Files
-- `queries.sql` — all 10 queries
+- `musicstoreproject.sql` — all 10 queries
 - `screenshots/` — query outputs
