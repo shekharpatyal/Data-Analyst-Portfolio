@@ -20,17 +20,30 @@ Key Findings:
 Tools: Python, Pandas, Matplotlib, Seaborn
 
 [View Project](./01-Python-Customer-Churn/)
-## 2. Airbnb Dashboard (Tableau)
+
+## 2. Music Store Analysis (SQL)
+Analyzed digital music store data using advanced SQL queries.
+
+**Key Findings:**
+- Rock genre accounts for 835 track sales
+- Jane Peacock generates 35.77% of total sales
+- Top customer: Helena Holý ($49.62 lifetime value)
+
+**Concepts:** JOINs, CTEs, Window Functions (RANK, LAG, NTILE)
+
+[View Project](./02-SQL-Music-Store-Analysis/)
+
+### 3. Airbnb Dashboard (Tableau)
 - Analyzed Airbnb listings data
 - [View dashboard] (https://public.tableau.com/views/AirbnbProject_17878500570350/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-### 3. HR Analytics Dashboard (Tableau + SQL)
+#### 4. HR Analytics Dashboard (Tableau + SQL)
 - Analyzed employee attrition for 1,470 employees
 - Key Finding: R&D department highest attrition (133 employees)
 - [View Dashboard] (https://public.tableau.com/views/HRAnalyticsDashboard_17879051092430/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [View SQL Queries] (HR_Analytics.sql)
 
-#### 4. Bike Sales Dashboard (Excel)
+##### 5. Bike Sales Dashboard (Excel)
 
 - Analyzed bike sales across regions, age groups and commute patterns
 - Built interactive dashboard with slicers for Marital Status, Region, Education
