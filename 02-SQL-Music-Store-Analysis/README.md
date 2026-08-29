@@ -28,3 +28,16 @@ MySQL, SQL (JOINs, CTEs, Window Functions)
 ## Files
 - `musicstoreproject.sql` — all 10 queries
 - `screenshots/` — query outputs
+## Query Outputs
+
+### Top 10 Customers
+![Top Customers](top_customers.png)
+
+### Best Selling Genres
+![Best Genres](best_genres.png)
+
+### Employee Sales Performance
+![Employee Ranking](employee_ranking.png)
+
+### Customer Segments
+![Customer Segments](customer_segments.png)
