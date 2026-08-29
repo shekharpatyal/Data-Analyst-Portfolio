@@ -21,8 +21,9 @@ Python, Pandas, NumPy, Matplotlib, Seaborn
 | Electronic check payers | 45.3% churn |
 
 ## Files
-- `notebook.ipynb` — full analysis with code and visualizations
-- `images/` — charts
+
+- [notebook.ipynb](./notebook.ipynb) — full analysis with code and visualizations
+- [images/](./images/) — charts
 
 ## How to Run
 1. Install requirements: `pip install pandas numpy matplotlib seaborn`
