@@ -65,11 +65,12 @@ Analyzed Airbnb listings data for pricing trends and market patterns.
 [View Dashboard](https://public.tableau.com/views/AirbnbProject_17878500570350/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 5. Bike Sales Dashboard (Excel)
-Analyzed bike sales across regions, age groups and commute patterns.
+Analyzed bike purchase patterns across regions, age groups and commute distances.
 
 **Key Findings:**
-- Middle-aged customers (35-54) generate 55% of total sales
-- 10-mile commute segment has highest average income
+- Middle-aged customers (35-54) show higher bike purchase activity
+- Male bike buyers have the highest average income (~$92.9K)
+- 5-10 mile commute segment has the highest bike-purchase count
 - Built interactive dashboard with slicers
 
 **Tools:** Excel, Pivot Tables, Slicers
