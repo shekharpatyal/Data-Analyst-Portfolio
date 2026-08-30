@@ -74,6 +74,7 @@ Analyzed bike purchase patterns across regions, age groups and commute distances
 - Built interactive dashboard with slicers
 
 **Tools:** Excel, Pivot Tables, Slicers
+[View Image](bike_sale_image.png)
 
 [View File](./Excel%20Project%20Dataset%20New.xlsx)
 
